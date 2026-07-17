@@ -1,0 +1,6 @@
+{
+  "name": "ARVION",
+  "description": "ARVION is an AI-powered visual web application builder. Build Apps with AI: describe your layout and instantly compile, edit, preview, and deploy fully functional websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
